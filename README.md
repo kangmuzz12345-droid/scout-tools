@@ -19,6 +19,7 @@
 11. **Background Process & RAM Analyzer** — Memantau penggunaan memori (RAM), melihat daftar proses aktif beserta PID, dan menghentikan proses tertentu.
 12. **File Manager (Copy, Move, Delete)** — Mengelola file dan direktori langsung melalui antarmuka menu interaktif.
 
+
 ---
 
 ## 🚀 Cara Instalasi di Termux
@@ -29,3 +30,14 @@ pkg install python git -y
 git clone [https://github.com/kangmuzz12345-droid/scout-tools.git](https://github.com/kangmuzz12345-droid/scout-tools.git)
 cd scout-tools
 pip install requests
+===
+===
+# ============================================================
+# SCOUT INTERACTIVE TOOL v10.3 (Termux Edition)
+# Author : Mus (kangmuzz12345-droid)
+# DISCLAIMER: Tool ini dibuat untuk edukasi, diagnostik, dan
+# pengujian pada sistem milik sendiri atau yang berizin resmi.
+# ============================================================
+
+print("[!] DISCLAIMER: Gunakan hanya untuk edukasi & sistem berizin.")
+print("[!] Penyalahgunaan sepenuhnya menjadi tanggung jawab pengguna.\n")
